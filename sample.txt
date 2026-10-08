@@ -1,0 +1,6 @@
+This is a sample text file.
+Langchain is a powerful framework for building applications with LLMs.
+It helps to connect LLMs with other sources of data and manage the flow of information.
+RAG (Retrieval-Augmented Generation) is a technique that combines retrieval of relevant documents with generation of responses.
+Langchain and RAG can be used together to create intelligent applications that can answer questions based on a large corpus of documents.
+This file is intended to be used as a sample for testing purposes.
